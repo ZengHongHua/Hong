@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- 状态栏下面颜色-->
+        <item name="colorPrimary">#09ff9c</item>
+
+        <!-- 状态栏颜色-->
+        <item name="colorPrimaryDark">#ffe418</item>
+        <!--<item name="android:statusBarColor">#ff4036</item>-->
+    </style>
+
+</resources>
